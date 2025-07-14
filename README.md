@@ -55,6 +55,14 @@ FastAPI
 Uvicorn
 Docker
 
+### Screenshots
+![Post request](https://github.com/user-attachments/assets/20569b65-c005-48b4-97f0-c41689a3e16f)
+![Response](https://github.com/user-attachments/assets/5212a797-aeef-4396-a653-8596f17b3102)
+
+### Architecture diagram
+![](https://github.com/user-attachments/assets/9dbe49e6-2a0d-44e3-956c-c44e695fdad6)
+
+
 ### 🧠 Model Info
 Trained on Iris dataset (150 samples, 3 classes)
 
